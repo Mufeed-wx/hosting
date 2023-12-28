@@ -1,0 +1,19 @@
+#section {
+  text-align: center;
+}
+#main {
+  padding: 50px;
+  display: flex;
+}
+.contactBanner {
+  height: 500px;
+  width: 50%;
+  background-image: url("https://cdn.pixabay.com/photo/2016/08/11/23/48/mountains-1587287_1280.jpg");
+}
+.contactForm {
+  height: 500px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

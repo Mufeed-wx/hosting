@@ -1,0 +1,20 @@
+.cart-container {
+  display: flex;
+  position: relative;
+  height: 30px;
+  width: 40px;
+}
+.cart-inc-button {
+  position: absolute;
+  right: 4px;
+  background-color: rgb(234, 241, 239);
+  color: black;
+  border-radius: 50%;
+  width: 25px;
+  font-size: 10px;
+  text-align: center;
+  padding: 3px;
+}
+.cart-btn {
+  position: absolute;
+}
